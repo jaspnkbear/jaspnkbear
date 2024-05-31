@@ -1,4 +1,4 @@
-![image](https://github.com/jaspnkbear/jaspnkbear/assets/171296650/7080d5f5-a53b-4a7a-bf95-66dd709a7856)<h1 align="center">Hello World! I'm 🌸Jaylyn🌸!!</h1>
+<h1 align="center">Hello World! I'm 🌸Jaylyn🌸!!</h1>
 <p align="center">A passionate indie game dev from California</p>
 <div align="center">
   <img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif"/>
