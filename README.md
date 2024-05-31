@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm 🌸Jaylyn🌸!!</h1>
+![image](https://github.com/jaspnkbear/jaspnkbear/assets/171296650/7080d5f5-a53b-4a7a-bf95-66dd709a7856)<h1 align="center">Hello World! I'm 🌸Jaylyn🌸!!</h1>
 <p align="center">A passionate indie game dev from California</p>
 <div align="center">
   <img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif"/>
@@ -34,6 +34,6 @@
   <h4> My Team!</h4>
   <img src="https://media.tenor.com/GZ_va_Ggnq8AAAAi/jingliu-jingliu-honkai-star-rail.gif" width="200"/>
   <img src="https://media.tenor.com/ZQlYdiJRvRMAAAAi/himeko-himko-stari-rail.gif" width="200"/>
-  <img src="https://media.tenor.com/YcRyor1O4bMAAAAi/stelle-honkai-star-rail-stelle.gif" width="200"/>
-  <img src="https://media.tenor.com/FzVPwLr-xg4AAAAi/lynx-honkai-star-rail.gif" width="200"/>
+  <img src="https://media.tenor.com/vXdUqjXeijgAAAAi/ruan-mei-hsr.gif" width="200"/>
+  <img src="https://media.tenor.com/demHdMJFG5oAAAAi/luocha-honkia-star-rail-luocha.gif" width="200"/>
 </div>
